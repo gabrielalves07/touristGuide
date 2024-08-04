@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+#root {
+    max-width: 100%;
+    padding: 5px 0;
+}
+
+h1, h4 {
+    color: #102C57;
+}
+
+h2 {
+    color: #0d6efd;
+}
+
+.card {
+    padding: 0;
+}
